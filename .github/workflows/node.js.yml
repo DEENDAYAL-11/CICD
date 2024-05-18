@@ -34,7 +34,7 @@ jobs:
       #- run: npm test
       # Uncomment the above lines if you want to build and run tests
 
-      - name: Deploy 🚀
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           ACCESS_TOKEN: ${{ secrets.GH_DOCS }}

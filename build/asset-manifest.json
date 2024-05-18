@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CICD/static/css/main.f855e6bc.css",
+    "main.js": "/CICD/static/js/main.55d5620a.js",
+    "static/js/453.8e78ade8.chunk.js": "/CICD/static/js/453.8e78ade8.chunk.js",
+    "index.html": "/CICD/index.html",
+    "main.f855e6bc.css.map": "/CICD/static/css/main.f855e6bc.css.map",
+    "main.55d5620a.js.map": "/CICD/static/js/main.55d5620a.js.map",
+    "453.8e78ade8.chunk.js.map": "/CICD/static/js/453.8e78ade8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.55d5620a.js"
+  ]
+}
