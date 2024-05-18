@@ -30,7 +30,7 @@ jobs:
       - run: npm ci
         # Install dependencies using npm ci
 
-      #- run: npm run build --if-present
+      - run: npm run build --if-present
       #- run: npm test
       # Uncomment the above lines if you want to build and run tests
 
