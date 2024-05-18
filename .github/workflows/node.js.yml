@@ -35,7 +35,7 @@ jobs:
       # Uncomment the above lines if you want to build and run tests
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.GH_DOCS }}
           folder: build # The folder the action should deploy.
